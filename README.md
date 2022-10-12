@@ -18,4 +18,4 @@
   
 ### Languages/Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,express,flask,docker,aws,postgres,nodejs,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,express,flask,aws,postgres,nodejs,sqlite)](https://skillicons.dev)
