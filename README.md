@@ -1,4 +1,4 @@
-### Hello Word... I'm Connor 👋
+### Hello World... I'm Connor 👋
 
 
 ---
